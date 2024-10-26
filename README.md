@@ -1,7 +1,10 @@
 # Merayo-Pastor-Merce-PEC1
-PEC 1 - Datos ómicos - Curso 2024-2025
+
+## PEC 1 - Datos ómicos - Curso 2024-2025
+
 Se ha seleccionado el dataset de metabolómica correspondiente al estudio ST003471 del repositorio metabolomicsWorkbench.
 El título original del estudio es "*Gut Microbiota Regulates Stress Responsivity via the Circadian System - Mice Hippocampus*" - La microbiota intestinal regula la respuesta al estrés a través del sistema circadiano - Hipocampo de ratones.
+
 **Resumen del estudio**
 "El estrés y los sistemas circadianos están interconectados a través del eje hipotálamo-hipofisario-adrenal (HPA) para mantener respuestas apropiadas a los estímulos externos. Sin embargo, los mecanismos de cómo se orquestan dichas señales siguen siendo desconocidos. Ahora descubrimos que la microbiota intestinal es un regulador de la función rítmica del eje HPA. Además, el agotamiento de la microbiota altera notablemente el transcriptoma y el metaboloma cerebral en vías clave de respuesta al estrés en el hipocampo y la amígdala a lo largo del día. Esto se combina con una desregulación del marcapasos circadiano maestro en el cerebro que resultó en una ritmicidad glucocorticoidea perturbada. La hiperactivación resultante del eje HPA en la transición sueño/vigilia impulsa alteraciones específicas de la hora del día de la respuesta al estrés y comportamientos sensibles al estrés alterados. Finalmente, mediante el trasplante de microbiota, confirmamos que las oscilaciones diurnas de los microbios intestinales subyacen a la secreción alterada de glucocorticoides e identificamos a L. reuteri como una cepa candidata para tales efectos. En conjunto, nuestros datos ofrecen evidencia convincente de que la microbiota regula la respuesta al estrés de manera circadiana y es necesaria para responder de manera adaptativa a los estresores psicológicos a lo largo del día."
 
